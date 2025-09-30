@@ -21,7 +21,7 @@ from calc import (
 )
 
 st.set_page_config(page_title="EMD FoF — Performance Explorer", layout="wide")
-st.title("EMD Fund-of-Funds — Performance Explorer (v0.2)")
+st.title("EMD Fund-of-Funds — Performance Explorer (v0.2.1)")
 
 with st.sidebar:
     st.header("Data source: New Dashboard workbook")

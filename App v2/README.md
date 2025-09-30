@@ -24,3 +24,6 @@ The parser reads header columns that look like date **ranges** (e.g., `31-MAR-20
 - Selection (daily): \( \sum w_i (r_i - r_B) \)
 - Construction (daily): \( r_P - r^{\text{Mgr}} \)
 - MTD = sum of daily values; monthly table is **compounded** from daily.
+
+
+This is the flattened v0.2.1 package for GitHub/Streamlit Cloud. Main file path = `app.py`.
